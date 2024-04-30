@@ -1,8 +1,6 @@
-
-- [Inhalte](#Inhalte)
-- [Allg. Informationen](#Allgemeine Informationen)
-- [Monte Carlo](#Monte Carlo-Integrale)
-- [Hinweis](#Hinweis für die Verwendung von Vegas)
+- [Allg. Informationen](#allgemeine-informationen)
+- [Monte Carlo-Integrale](#monte-carlo-integrale)
+- [Hinweis](#hinweis-für-die-verwendung-von-vegas)
 
 
 ## Allgemeine Informationen

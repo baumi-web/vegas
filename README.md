@@ -2,7 +2,7 @@
 
 - [Allg. Informationen](#allgemeine-informationen)
 - [Monte Carlo-Integrale](#monte-carlo-integrale)
-- [Monte Carlo-Integrale](VL_Num_new-seiten-2.pdf)
+- [Theoretische Grundlagen](VL_Num_new-seiten-2.pdf)
 - [Hinweis](#hinweis-für-die-verwendung-von-vegas)
 
 
